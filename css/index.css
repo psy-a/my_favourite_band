@@ -78,3 +78,15 @@
     margin-top: 30px;
     font-family: Georgia, 'Times New Roman', Times, serif;
   }
+  .five {
+    display: inline-block;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    }
+    #image5 {
+        float: left;
+        padding-right: 20px;
+        width: 50%;
+        height: 50%;
+        margin-bottom: 15px;
+    }
