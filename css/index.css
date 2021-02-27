@@ -8,6 +8,7 @@
       padding-right: 20px;
       width: 50%;
       height: 50%;
+      margin-bottom: 15px;
   }
   
   #image2 {
@@ -24,7 +25,7 @@
   }
   p{
       text-align: left;
-      font-size: 30px;
+      font-size: 25px;
       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
   body {
