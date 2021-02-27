@@ -1,0 +1,29 @@
+.one {
+  display: inline-block;
+  margin-bottom: 30px;
+  }
+  #image1 {
+      float: left;
+      padding-right: 20px;
+      width: 50%;
+      height: 50%;
+  }
+  
+  #image2 {
+      float: right;
+      padding-left: 20px;
+      width: 50%;
+      height: 50%;
+  }
+  .two {
+      display: inline-block;
+      margin-top: 30px;
+      
+  }
+  p{
+      font-size: 30px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  body {
+    background-color: lightgray;
+  }
