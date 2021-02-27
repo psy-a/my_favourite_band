@@ -72,6 +72,7 @@
   .four {
       display: inline-block;
       margin-top: 30px;
+      margin-top: 40px;
   }
   #niall {
     text-align: center;
@@ -81,7 +82,7 @@
   .five {
     display: inline-block;
     margin-bottom: 30px;
-    margin-top: 80px;
+    margin-top: 40px;
     }
     #image5 {
         float: left;
@@ -90,3 +91,19 @@
         height: 50%;
         margin-bottom: 15px;
     }
+    .six {
+      display: inline-block;
+      margin-bottom: 30px;
+      margin-top: 40px;
+      }
+      #image6 {
+          float: right;
+          padding-left: 20px;
+          width: 50%;
+          height: 50%;
+          margin-bottom: 15px;
+      }
+      #liam {
+        text-align: center;
+        margin-top: 10px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
