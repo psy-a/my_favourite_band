@@ -21,6 +21,7 @@
 .two {
   display: inline-block;
   margin-top: 30px;
+  margin-top: 40px;
 }
 p {
   text-align: left;
@@ -53,7 +54,7 @@ h1 span {
 .three {
   display: inline-block;
   margin-bottom: 30px;
-  margin-top: 80px;
+  margin-top: 40px;
 }
 #image3 {
   float: left;
@@ -107,4 +108,21 @@ h1 span {
   text-align: center;
   margin-top: 10px;
   font-family: Georgia, "Times New Roman", Times, serif;
+}
+.seven {
+  display: inline-block;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+#image7 {
+  float: left;
+  padding-right: 20px;
+  width: 50%;
+  height: 50%;
+  margin-bottom: 15px;
+}
+#love {
+  text-align: center;
+  font-size: 20px;
+  padding-top: 60px;
 }
