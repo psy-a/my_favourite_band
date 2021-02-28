@@ -25,7 +25,7 @@
 }
 p {
   text-align: left;
-  font-size: 25px;
+  font-size: 24px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
@@ -127,7 +127,23 @@ h1 span {
   padding-top: 60px;
 }
 ol {
-  font-size: 22px;
+  font-size: 24px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+#image8 {
+  float: right;
+  padding-left: 20px;
+  margin-bottom: 15px;
+  width: 40%;
+  height: 40%;
+}
+.eight {
+  display: inline-block;
+  margin-top: 30px;
+  margin-top: 40px;
+}
+ul {
+  font-size: 24px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
