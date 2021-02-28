@@ -33,7 +33,7 @@ body {
   background-color: lightgray;
 }
 #top {
-  width: 101%;
+  width: 100%;
   height: 100%;
   margin-bottom: 60px;
 }
@@ -149,6 +149,6 @@ ul {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 #bottom {
-  width: 101%;
+  width: 100%;
   height: 100%;
 }
