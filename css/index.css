@@ -26,8 +26,7 @@
 p {
   text-align: left;
   font-size: 24px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif
 }
 body {
   background-color: lightgray;
@@ -129,8 +128,7 @@ h1 span {
 }
 ol {
   font-size: 24px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif
 }
 #image8 {
   float: right;
@@ -146,8 +144,7 @@ ol {
 }
 ul {
   font-size: 24px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 #bottom {
   width: 100%;
