@@ -26,5 +26,5 @@ View [live](https://psy-a.github.io/my_fav_band/)
 ### Support and Contact Details
 For any questions, suggestions, contribution or assistance, reach me on psyfi488@gmail.com
 ### Licence
-This project is under the  [MIT](LICENSE) licence
+This project is under the  [MIT](LICENSE.txt) licence
 Copyright (c) 2021 **Psy Aspin**
