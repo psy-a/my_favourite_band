@@ -12,7 +12,7 @@ You can install it with the following command in your terminal;
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal.
-1. Use this command to clone `$ git clone https://github.com/psy-a/my_fav_band
+1. Use this command to clone `$ git clone https://psy-a.github.io/my_favourite_band/
 1. This will clone the repositoty into your local folder
 1. __Enjoy :)__
 ### Known Bugs
