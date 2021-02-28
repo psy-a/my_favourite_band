@@ -22,7 +22,7 @@ No known bugs at the moment.
 2. CSS
 3. Git
 ### Live Site
-View [live](https://psy-a.github.io/my_fav_band/)
+View [live](https://psy-a.github.io/my_favourite_band/)
 ### Support and Contact Details
 For any questions, suggestions, contribution or assistance, reach me on psyfi488@gmail.com
 ### Licence
