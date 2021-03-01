@@ -1,7 +1,7 @@
 # my_favourite_band
 My favorite band project, 28th February, 2021.
 ## Author
-Psy Aspin
+Aspin Isoe
 ## Description
 This is a website about my favourite music band of all time, One Direction.
 It gives details about the band, its formation, brief about the band members, and my ten best work from the band.
@@ -27,4 +27,4 @@ View [live](https://psy-a.github.io/my_favourite_band/)
 For any questions, suggestions, contribution or assistance, reach me on psyfi488@gmail.com
 ### Licence
 This project is under the  [MIT](LICENSE.txt) licence
-Copyright (c) 2021 **Psy Aspin**
+Copyright (c) 2021 **Aspin Isoe**
